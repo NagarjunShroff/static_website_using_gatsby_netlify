@@ -105,7 +105,7 @@ module.exports = {
   background_color: '#ffffff',
   theme_color: '#25303B',
   display: 'minimal-ui',
-  icon: 'src/assets/gatsby-icon.png',
+  icon: 'src/assets/profilePic.jpeg',
   headerLinks: [
     {
       label: 'Nagarjun Shroff',

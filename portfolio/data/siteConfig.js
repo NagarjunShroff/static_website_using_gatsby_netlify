@@ -6,16 +6,17 @@ module.exports = {
   twitterUsername: 'nagarjunshroff',
   githubUsername: 'NagarjunShroff',
   authorAvatar: '/images/profilePic.jpeg',
-  authorDescription: `Developer, passionate about what I do. My hobbies are playing guitar, listening to music, watching TV shows.
-    I currently work as a frontend developer and mainly work with <strong>Javascript and React.</strong>`,
+  authorDescription: `An UI/UX Enthusiast, Coder, Bit of Jack of all trades. 
+       I do enjoy an occasional art of playing guitar, motorcycling, listening to music, running Marathon for cause and shuttle badminton.
+        Currently working as a frontend developer and mainly work with <strong>Javascript and React.</strong>`,
   skills: [
     {
       name: 'HTML',
-      level: 70
+      level: 80
     },
     {
       name: 'CSS',
-      level: 70
+      level: 85
     },
     {
       name: 'Javascript',
@@ -47,7 +48,7 @@ module.exports = {
     },
     {
       name: 'Linux',
-      level: 60
+      level: 65
     }
 
   ],
@@ -55,30 +56,41 @@ module.exports = {
     {
       company: "MicroFocus Software",
       begin: {
+        month: 'feb',
+        year: '2019'
+      },
+      duration: null,
+      occupation: "Lead Engineer - UI",
+      description: "Currently working for the product called 'Fusion'. Technically leading the team of 5"
+  
+    },{
+      company: "MicroFocus Software",
+      begin: {
         month: 'jun',
         year: '2017'
       },
-      duration: null,
-      occupation: "Lead Engineer UI",
-      description: "Worked for the products like 'User and Entity Behavior Analytics' and 'Identity Intelligence'. Currently working for the product called 'ArcSight Next Generation UX'."
+      duration: '1 year 8 months',
+      occupation: "Senior Engineer - UI",
+      description: "Worked for the products like 'User and Entity Behavior Analytics' and 'Identity Intelligence'."
   
-    },{
+    },
+    {
       company: "MicroFocus Software",
       begin: {
         month: 'aug',
         year: '2014'
       },
-      duration: '5 yrs 8 mos',
+      duration: '2 years 10 months',
       occupation: "Senior Software Engineer",
       description: "Responsible for building Automation frameworks, maintaining frameworks, Automating test cases"
   
     }, {
       company: "Ness Technologies",
       begin: {
-        month: 'oct',
-        year: '2013'
+        month: 'jul',
+        year: '2014'
       },
-      duration: '10 mos',
+      duration: '8 months',
       occupation: "Senior QA Engineer",
       description: "Worked as a Automation QA for the product 'FlexNet Publisher'. Responsible for enhancing and maintaining the Automation framework. Automating test cases using Perl scripting."
     }, {
@@ -87,7 +99,7 @@ module.exports = {
         month: 'mar',
         year: '2011'
       },
-      duration: '2 yrs 8 mos',
+      duration: '2 years 6 months',
       occupation: "Software Engineer",
       description: "Worked as a Automation QA for the product 'FlexNet Publisher'. Automating test cases using Perl scripting."
   
